@@ -1,1 +1,1 @@
-worker python_3.10.1
+worker:  python index2.py
