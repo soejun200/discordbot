@@ -1,6 +1,0 @@
-discord.py
-asynico
-youtube_dl
-beautifulsoup4
-ffmpeg
-selenium
